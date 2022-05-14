@@ -2,9 +2,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wuweiweiwu.wuweiweiwu)
 
-![look](https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif)
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 
-### Projects I help to maintain
+### Projects I used to maintain
 
  - [storybook](https://github.com/storybookjs/storybook)
  - [@rollup/plugins](https://github.com/rollup/plugins)
