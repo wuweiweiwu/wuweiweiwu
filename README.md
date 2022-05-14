@@ -1,4 +1,4 @@
-## On haitus from Open Source 🏖️
+## On haitus from open source 🏖️
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wuweiweiwu.wuweiweiwu)
 
